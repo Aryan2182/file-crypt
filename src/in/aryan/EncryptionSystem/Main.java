@@ -1,4 +1,4 @@
-package in.ganeshsharma.EncryptionSystem;
+package in.aryan.EncryptionSystem;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
